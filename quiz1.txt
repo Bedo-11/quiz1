@@ -1,1 +1,3 @@
 Gethub says Hello!
+
+VS Code says hello too!
